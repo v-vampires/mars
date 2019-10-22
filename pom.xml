@@ -3,15 +3,14 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.moxi</groupId>
-	<artifactId>moxi</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<groupId>com.mars</groupId>
+	<artifactId>mars</artifactId>
+	<version>1.0.0</version>
  
 	<!-- <packaging>war</packaging>  -->
 	<packaging>jar</packaging>
 
-	<name>moxi</name>
-	<description>mox</description>
+	<name>mars</name>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
